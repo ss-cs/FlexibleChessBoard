@@ -1,4 +1,4 @@
-1. Open folder of Problem1 in terminal 
+1. Open folder of FlexibleChessBoard in terminal 
 2. Run it using npm start
 3. Open your localhost
 4. Go to the input box
