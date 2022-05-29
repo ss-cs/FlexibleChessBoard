@@ -1,0 +1,9 @@
+.card {
+    overflow: hidden;
+    box-shadow: 0 2px 20px;
+    display: flex;
+    flex-direction: column;
+}
+.card__title{
+    text-align: center;
+}
